@@ -1,0 +1,7 @@
+C:\Users\artem\Desktop\Новая папка\Arena_Fighter-master\ConsoleApp14\bin\Debug\ConsoleApp14.exe.config
+C:\Users\artem\Desktop\Новая папка\Arena_Fighter-master\ConsoleApp14\bin\Debug\ConsoleApp14.exe
+C:\Users\artem\Desktop\Новая папка\Arena_Fighter-master\ConsoleApp14\bin\Debug\ConsoleApp14.pdb
+C:\Users\artem\Desktop\Новая папка\Arena_Fighter-master\ConsoleApp14\obj\Debug\ConsoleApp14.csproj.AssemblyReference.cache
+C:\Users\artem\Desktop\Новая папка\Arena_Fighter-master\ConsoleApp14\obj\Debug\ConsoleApp14.csproj.CoreCompileInputs.cache
+C:\Users\artem\Desktop\Новая папка\Arena_Fighter-master\ConsoleApp14\obj\Debug\ConsoleApp14.exe
+C:\Users\artem\Desktop\Новая папка\Arena_Fighter-master\ConsoleApp14\obj\Debug\ConsoleApp14.pdb
